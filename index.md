@@ -1,6 +1,6 @@
 ## DSC BCE
 
-You can use the [editor on GitHub](https://github.com/bcedsc/bcedsc.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is a sample test run for <Developer Student Clubs>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
