@@ -1,6 +1,6 @@
 ## DSC BCE
 
-This is a sample test run for <Developer Student Clubs>
+This is a sample test run for \<Developer Student Clubs\>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
