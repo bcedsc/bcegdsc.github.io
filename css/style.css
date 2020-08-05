@@ -62,7 +62,7 @@ h1 {
 	font-weight: 800;
 	line-height: 80px;
 	letter-spacing: -0.08em;
-	color: #161a1b; 
+	color: #afaeae; 
 }
 
 h2 {
@@ -71,7 +71,7 @@ h2 {
 	line-height: 1em;
 	letter-spacing: 0.2em;
 	text-transform: uppercase;
-	color: #161a1b;
+	color: #ffffff;
 }
 
 #countdown div span {
@@ -209,7 +209,7 @@ h2 {
 	-webkit-transition: opacity 0.3s;
 	-moz-transition: opacity 0.3s;
 	transition: opacity 0.3s;
-	color: black;
+	color: rgb(12, 192, 247);
 	font-size: 24px;
 }
 
@@ -223,7 +223,7 @@ h2 {
 
 .contact a.mail {
 	text-decoration: none;
-	color: #161a1b;
+	color: #ffffff;
 	padding-bottom: 8px;
 	font-size: 15px;
 }
