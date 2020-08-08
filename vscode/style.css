@@ -1,0 +1,83 @@
+.container{
+    max-width: 80%;
+  
+    padding: 34px;
+    margin: auto;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Red Rose', cursive;
+
+}
+.container h1{
+    text-align: center;
+}
+.container p{
+    text-align: center;
+}
+input , textarea{
+    width: 80%;
+    margin: 11px 0px;
+  padding: 7px;
+  font-size: 15px;
+  border: 2px solid black;
+  border-radius: 6px;
+  outline: none;
+  background-color: transparent;
+  display: block;
+}
+h1{
+    font-size: 35px;
+}
+p{
+    font-size: 17px;
+}
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.btn{
+    color: palevioletred;
+    background-color:transparent;
+    padding: 8px 12px;
+    font-size: 20px;
+    border: 2px solid palevioletred;
+    border-radius: 14px;
+    cursor: pointer;
+
+}
+.q{
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    
+}
+.submitmsg{
+    font-size: 40px;
+    color: green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
